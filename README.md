@@ -1,8 +1,13 @@
 # 🐍 Snake
 Project to recreate the classic game **Snake** ~ _using Python and Turtle Graphics_
+_______________________________________________________________
 
-**Controls for Player**                                                                                                  
-    ⌨️Use the arrows on keyboard to move _up, down, left, right_
+<t>🎮  **Controls for Player**                                       
+⌨️Use the arrows on keyboard to move _up, down, left, right_<br>
+ 
+<t>🤷  **How to Play** <br>
+Move the snake carefully to collect the food (dots), 
+but be careful not to run into a wall or or your own body!
                                                                                                           
 __________________________________________________________________________________________________________
 
