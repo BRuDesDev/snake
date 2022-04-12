@@ -1,5 +1,8 @@
 # 🐍 Snake
 Project to recreate the classic game **Snake** ~ _using Python and Turtle Graphics_
+
+![image](https://user-images.githubusercontent.com/103232802/162846616-3d713a39-3704-4c96-98e4-6288f4e43708.png)
+
 _______________________________________________________________
 
 <t>🎮  **Controls for Player**                                       
